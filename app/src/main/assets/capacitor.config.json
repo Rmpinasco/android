@@ -1,0 +1,7 @@
+{
+	"appId": "La.Pampa.turismo",
+	"appName": "La Pampa turismo",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "www"
+}
